@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$
+\left\{
+\begin{array}[l]{l}
+$1
+\end{array}
+\right.
+\$
+
+
+]]></content>
+	<tabTrigger>systeme</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

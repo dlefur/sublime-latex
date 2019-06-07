@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$\displaystyle\int_{${1:a}}^{${2:b}} u'v\,\text{d}x=\Big[ u~v \Big]_{$1}^{$2}-\int_{$1}^{$2} uv'\,\text{d}x\$\\\
+
+avec 
+\begin{tabular}{ll}
+\$u= \$ & $v= \$\\\
+\$u'= \$ & $v'= \$\\\
+\end{tabular}
+
+
+]]></content>
+	<tabTrigger>partie</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

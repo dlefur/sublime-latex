@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$\mathbb{N}\$  
+]]></content>
+	<tabTrigger>NN</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

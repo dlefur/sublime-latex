@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$\$\includegraphics[scale=0.6]{$1}\$\$ 
+
+$0
+]]></content>
+	<tabTrigger>gr</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

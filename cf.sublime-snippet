@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$ ({\cal C}_f) \$  
+]]></content>
+	<tabTrigger>cf</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

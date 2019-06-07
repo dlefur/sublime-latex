@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\opadd[resultstyle=\red,carrystyle=\blue]{$1}{$2}
+
+
+
+]]></content>
+	<tabTrigger>opadd</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

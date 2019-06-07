@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\Longleftrightarrow $0
+]]></content>
+	<tabTrigger>equiv</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

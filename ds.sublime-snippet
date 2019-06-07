@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+\input{entete-ds.tex}
+%\usepackage[xcas]{pro-courbes}
+
+%--------------------------- Entête et pied de page
+\newpagestyle{main}{%
+\headrule
+\setheadrule{1pt}
+\sethead{\bf \Large Nom :}{\bf \Large ${1:Devoir nº 1.1}}{\bf \Large ${2:Classe}}
+\footrule
+\setfootrule{1pt}
+\setfoot{D. Le Fur}{}{\thepage / \pageref{LastPage}}
+}
+
+
+\begin{document}
+\pagestyle{main} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{5 points}
+
+
+$0
+
+
+
+\end{document}
+]]></content>
+	<tabTrigger>ds</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

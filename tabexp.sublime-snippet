@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\renewcommand*\arraystretch{${1:2}}
+
+]]></content>
+	<tabTrigger>tabexp</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

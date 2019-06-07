@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+L'équation réduite de \$ (T_${1:A})\$ est de la forme : \$ (T_${1}): y = f'(x_${1})(x-x_${1})+f(x_${1})\$\\\\
+avec 
+\\begin{tabular}[t]{l}
+\$x_${1}= $0\$\\\\
+\$f(x_${1})= \$\\\\
+\$f'(x_${1})= \$\\\\
+\\end{tabular}
+
+D'où \$ (T_${1}) : y = \$\\\\
+]]></content>
+	<tabTrigger>eqtan</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

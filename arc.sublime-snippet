@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$\stackrel{\frown}{$1}\$ 
+]]></content>
+	<tabTrigger>arc</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

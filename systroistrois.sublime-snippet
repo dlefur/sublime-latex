@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+\$
+\left\{
+\begin{array}[l]{rcrcr@{\quad = \quad}c}
+2a & - & 3b & + &3c & 3\\\\ 
+5a & + & b & - & c & 16\\\\ 
+4a & - & 2b & + & 5c & 13\\\\ 
+\end{array}
+\right.
+\$
+
+
+]]></content>
+	<tabTrigger>systroistrois</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

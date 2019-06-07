@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+Posons \$ P(x)=x^2-57x+540\$.\\\
+Calculons son discriminant : \$\Delta=b^2-4ac=(-57)^2-4(1)(540)=1\,089\$\\\
+\$\sqrt{\Delta}=33\$\\\
+Comme \$\Delta > 0\$, \$ P(x)\$ admet deux racines \$x_1\$ et \$x_2\$ :\\\
+
+\$x_1=\dfrac{-b-\sqrt{\Delta}}{2a}=\dfrac{57-33}{2}=12\$\\\
+
+\$x_2=\dfrac{-b+\sqrt{\Delta}}{2a}=\dfrac{57+33}{2}=45\$\\\
+
+
+]]></content>
+	<tabTrigger>second</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

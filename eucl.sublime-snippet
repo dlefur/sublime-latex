@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+Utilisons la division euclidienne des polynômes :
+
+\$
+\\begin{array}[l]{cccc|c}
+x^3 & -x^2 & -13x & +4 & x-4\\\\ \cline{5-5}
+x^3 & -4x^2&      &    & x^2+3x-1\\\\
+\\cline{1-4}
+    & 3x^2 & -13x & +4 & \\\\
+    & 3x^2 & -12x &  &\\\\
+    \\cline{2-4}
+    &      & -x & +4 &\\\\
+    &      & -x & +4 &\\\\
+      \cline{3-4} 
+    &      &    &  0&\\\\   
+\\end{array}
+\$\\\\
+
+]]></content>
+	<tabTrigger>eucl</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

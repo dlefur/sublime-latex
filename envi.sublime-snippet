@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\begin{$1}
+$0
+\end{$1}
+
+]]></content>
+	<tabTrigger>envi</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

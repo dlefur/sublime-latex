@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+Dans le triangle \$${1:A}${2:B}${3:C}\$, \$[$2$3]\$ est le plus grand côté.\\\
+Testons la relation de Pythagore
+ \$$2\textcolor{red}{$1}^2+\textcolor{red}{$1}$3^2=$2$3^2\$.\\\
+
+D'une part \$$2\textcolor{red}{$1}^2+\textcolor{red}{$1}$3^2=  \$\\\
+D'autre part \$$2$3^2=$0 \$\\\
+
+
+Comme \$$2\textcolor{red}{$1}^2+\textcolor{red}{$1}$3^2=$2$3^2\$, d'après la réciproque du théorème de Pythagore, le triangle \$$1$2$3\$ est rectangle en \$\textcolor{red}{$1}\$.\\\
+
+
+]]></content>
+	<tabTrigger>recpy</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\vspace{${1:1cm}}
+
+$0
+]]></content>
+	<tabTrigger>esp</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

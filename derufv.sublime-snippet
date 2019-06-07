@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\$\left[ uv\right]'=u'v+uv'\$
+avec 
+\begin{tabular}{ll}
+\$u=\$ & \$v=\$\\\
+\$u'=\$ & \$v'=\$\\\
+\end{tabular}
+]]></content>
+	<tabTrigger>derufv</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

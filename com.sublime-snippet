@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\colorbox{yellow}{\hspace{18cm}}
+\begin{comment}
+$0
+\end{comment}
+
+]]></content>
+	<tabTrigger>com</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

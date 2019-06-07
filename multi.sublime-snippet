@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\begin{multicols}{2}
+$TM_SELECTED_TEXT
+\end{multicols}
+
+$0
+]]></content>
+	<tabTrigger>multi</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

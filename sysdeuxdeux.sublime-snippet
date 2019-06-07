@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+\$
+\left\{
+\begin{array}[l]{rcr@{\quad = \quad}c}
+2x & - & 3y & 3\\\\ 
+5x & + & y  & 16\\\\  
+\end{array}
+\right.
+\$
+
+
+]]></content>
+	<tabTrigger>sysdeuxdeux</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

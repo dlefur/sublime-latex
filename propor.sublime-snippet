@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+\\begin{center}
+\\begin{tabular}{|l|c|c|}
+\\hline
+Prix initial & \$ 100 \$ & \$ 120 \$\\\
+\\hline
+Prix final & \$ ${0:75} \$ & \$ x \$\\\
+\\hline
+\\end{tabular}
+\\end{center}
+
+
+]]></content>
+	<tabTrigger>propor</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$
+\begin{array}{ll}
+r_{(O~;~60)}: & O \longmapsto O\\\\
+              & A \longmapsto M\\\\
+              & B \longmapsto N\\\\   
+              & C \longmapsto P\\\\                      
+\end{array}
+\$\\\\
+
+]]></content>
+	<tabTrigger>trans</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

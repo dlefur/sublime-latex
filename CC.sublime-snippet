@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$\mathbb{C}\$ 
+]]></content>
+	<tabTrigger>CC</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

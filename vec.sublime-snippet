@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\overrightarrow{$1}$0
+
+]]></content>
+	<tabTrigger>vec</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+\$ ${1:M} \$ est sur \$ (\textcolor{red}{${2:A}}${3:B}) \$.\\\
+\$ ${4:N} \$ est sur \$ (\textcolor{red}{$2}${5:C}) \$.\\\
+L'ordre des points est respecté.\\\
+D'après la réciproque du théorème de Thalès,\\\
+si \$\dfrac{\textcolor{red}{$2}$1}{\textcolor{red}{$2}$3}=\dfrac{\textcolor{red}{$2}$4}{\textcolor{red}{$2}$5}\$, alors les droites \$ ($1$4) \$ et \$ ($3$5) \$ sont parallèles.\\\
+
+Vérifions :\\\
+
+\$\dfrac{$2$1}{$2$3}= $0\$\\\
+
+\$\dfrac{$2$4}{$2$5}= \$\\\
+
+Comme \$\dfrac{$2$1}{$2$3}=\dfrac{$2$4}{$2$5}\$, alors les droites \$ ($1$4) \$ et \$ ($3$5) \$ sont parallèles.\\\
+
+]]></content>
+	<tabTrigger>recth</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

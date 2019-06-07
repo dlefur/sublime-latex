@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\columnbreak
+ 
+]]></content>
+	<tabTrigger>cb</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

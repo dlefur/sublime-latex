@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$ (O~;\overrightarrow{u},\overrightarrow{v}) \$$0
+]]></content>
+	<tabTrigger>ouv</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

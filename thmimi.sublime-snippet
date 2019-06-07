@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+Dans le triangle \$${1:A}${2:B}${3:C}\$,\\\
+\$${4:I}\$ est le milieu de \$[$1$2]\$,\\\
+\$ ($4${5:J}) \$ // \$ ($2$3) \$.\\\
+D'après le théorème 2 de la droite des milieux,\\\
+\$$5\$ est le milieu de \$[$1$3]\$ et \$$4$5=\dfrac{1}{2}$2$3\$.\\\
+
+]]></content>
+	<tabTrigger>thmimi</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

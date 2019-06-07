@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+Sur \$[${1:0}~;~${2:1}]\$, \$f\$ est continue et croissante.\\\
+De plus, \$${3:10}\$ est compris entre \$f($1)\$ et \$f($2)\$.\\\
+D'après le théorème des valeurs intermédiaires, l'équation \$f(x)=$3\$ admet une solution \$\alpha\$ sur \$[$1~;~$2]\$.\\\
+
+
+]]></content>
+	<tabTrigger>tvir</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

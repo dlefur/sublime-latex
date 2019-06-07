@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+Dans le triangle \$${1:A}${2:B}${3:C}\$ rectangle en \$\textcolor{red}{$1}\$,\\\
+d'après le théorème de Pythagore,\\\
+\$$2\textcolor{red}{$1}^2+\textcolor{red}{$1}$3^2=$2$3^2\$\\\
+
+\$$2$1^2+$1$3^2=$2$3^2\$\\\
+
+]]></content>
+	<tabTrigger>thpy</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

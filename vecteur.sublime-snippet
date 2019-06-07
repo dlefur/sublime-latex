@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+\$\overrightarrow{${1:A}${2:B}}
+\left(
+\begin{array}[l]{c}
+x_$2-x_$1\\\\
+y_$2-y_$1
+\end{array}
+\right)
+\$
+\quad
+\$\overrightarrow{$1$2}
+\left(
+\begin{array}[l]{c}
+$0 0-2\\\\
+-3+3
+\end{array}
+\right)
+\$
+\quad
+\$\overrightarrow{$1$2}
+\left(
+\begin{array}[l]{c}
+-2\\\\
+0
+\end{array}
+\right)
+\$
+
+]]></content>
+	<tabTrigger>vecteur</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\$\left[ \dfrac{u}{v} \right]'=\dfrac{u'v-uv'}{v^2}\$
+avec 
+\begin{tabular}{ll}
+\$u=\$ & \$v=\$\\\
+\$u'=\$ & \$v'=\$\\\
+\end{tabular}
+]]></content>
+	<tabTrigger>derusv</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>
